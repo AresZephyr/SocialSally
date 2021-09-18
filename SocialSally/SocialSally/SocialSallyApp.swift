@@ -2,8 +2,10 @@
 //  SocialSallyApp.swift
 //  SocialSally
 //
-//  Created by Eddie Gear on 16/09/21.
+//  Created by Eddie Gear on 10/09/2019.
+//  Copyright © 2021 Weekend Launchpad. All rights reserved.
 //
+
 
 import SwiftUI
 

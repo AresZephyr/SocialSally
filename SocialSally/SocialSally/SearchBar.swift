@@ -2,9 +2,10 @@
 //  SearchBar.swift
 //  ToDoList
 //
-//  Created by Simon Ng on 15/4/2020.
-//  Copyright © 2020 AppCoda. All rights reserved.
+//  Created by Eddie Gear on 10/09/2019.
+//  Copyright © 2021 Weekend Launchpad. All rights reserved.
 //
+
 
 import SwiftUI
 

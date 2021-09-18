@@ -8,24 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		304F834326F34A36001D9248 /* SocialSallyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304F834226F34A36001D9248 /* SocialSallyApp.swift */; };
-		30767A2626F357650024E19C /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30767A2526F357650024E19C /* ImagePicker.swift */; };
 		30767A4826F488C60024E19C /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30767A4726F488C60024E19C /* Persistence.swift */; };
 		30767A4A26F493B40024E19C /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30767A4926F493B40024E19C /* SearchBar.swift */; };
+		3098CB6126F6077E00F4DAFA /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3098CB6026F6077E00F4DAFA /* ImagePicker.swift */; };
+		3098CB6326F607C900F4DAFA /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3098CB6226F607C900F4DAFA /* AddView.swift */; };
+		3098CB6526F6080100F4DAFA /* SallyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3098CB6426F6080100F4DAFA /* SallyCard.swift */; };
 		309A173226F31B320059AD2D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A173126F31B320059AD2D /* ContentView.swift */; };
 		309A173426F31B320059AD2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 309A173326F31B320059AD2D /* Assets.xcassets */; };
 		309A173726F31B320059AD2D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 309A173626F31B320059AD2D /* Preview Assets.xcassets */; };
 		309A174026F31B550059AD2D /* SocialSally.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 309A173E26F31B550059AD2D /* SocialSally.xcdatamodeld */; };
 		309A174326F31C960059AD2D /* Sally+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A174126F31C960059AD2D /* Sally+CoreDataClass.swift */; };
 		309A174426F31C960059AD2D /* Sally+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A174226F31C960059AD2D /* Sally+CoreDataProperties.swift */; };
-		309A174C26F32B230059AD2D /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A174B26F32B230059AD2D /* AddView.swift */; };
-		309A174E26F32D7E0059AD2D /* SallyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 309A174D26F32D7E0059AD2D /* SallyCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		304F834226F34A36001D9248 /* SocialSallyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialSallyApp.swift; sourceTree = "<group>"; };
-		30767A2526F357650024E19C /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImagePicker.swift; path = "../../../../../Downloads/ImagePickerSwiftUI-master/SwiftUIImagePicker/ImagePicker.swift"; sourceTree = "<group>"; };
 		30767A4726F488C60024E19C /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		30767A4926F493B40024E19C /* SearchBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		3098CB6026F6077E00F4DAFA /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		3098CB6226F607C900F4DAFA /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		3098CB6426F6080100F4DAFA /* SallyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SallyCard.swift; sourceTree = "<group>"; };
 		309A172C26F31B320059AD2D /* SocialSally.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialSally.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		309A173126F31B320059AD2D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		309A173326F31B320059AD2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -34,8 +36,6 @@
 		309A173F26F31B550059AD2D /* SocialSally.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SocialSally.xcdatamodel; sourceTree = "<group>"; };
 		309A174126F31C960059AD2D /* Sally+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sally+CoreDataClass.swift"; sourceTree = "<group>"; };
 		309A174226F31C960059AD2D /* Sally+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sally+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		309A174B26F32B230059AD2D /* AddView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddView.swift; path = "../../DadJokes-main/DadJokes/AddView.swift"; sourceTree = "<group>"; };
-		309A174D26F32D7E0059AD2D /* SallyCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SallyCard.swift; path = "../../DadJokes-main/DadJokes/SallyCard.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +74,9 @@
 				304F834226F34A36001D9248 /* SocialSallyApp.swift */,
 				30767A4926F493B40024E19C /* SearchBar.swift */,
 				309A173126F31B320059AD2D /* ContentView.swift */,
-				30767A2526F357650024E19C /* ImagePicker.swift */,
-				309A174B26F32B230059AD2D /* AddView.swift */,
-				309A174D26F32D7E0059AD2D /* SallyCard.swift */,
+				3098CB6026F6077E00F4DAFA /* ImagePicker.swift */,
+				3098CB6226F607C900F4DAFA /* AddView.swift */,
+				3098CB6426F6080100F4DAFA /* SallyCard.swift */,
 				309A173E26F31B550059AD2D /* SocialSally.xcdatamodeld */,
 				309A173326F31B320059AD2D /* Assets.xcassets */,
 				309A173826F31B320059AD2D /* Info.plist */,
@@ -165,13 +165,13 @@
 				30767A4826F488C60024E19C /* Persistence.swift in Sources */,
 				309A174426F31C960059AD2D /* Sally+CoreDataProperties.swift in Sources */,
 				309A174026F31B550059AD2D /* SocialSally.xcdatamodeld in Sources */,
-				309A174C26F32B230059AD2D /* AddView.swift in Sources */,
 				309A174326F31C960059AD2D /* Sally+CoreDataClass.swift in Sources */,
 				309A173226F31B320059AD2D /* ContentView.swift in Sources */,
+				3098CB6326F607C900F4DAFA /* AddView.swift in Sources */,
 				304F834326F34A36001D9248 /* SocialSallyApp.swift in Sources */,
-				30767A2626F357650024E19C /* ImagePicker.swift in Sources */,
-				309A174E26F32D7E0059AD2D /* SallyCard.swift in Sources */,
+				3098CB6126F6077E00F4DAFA /* ImagePicker.swift in Sources */,
 				30767A4A26F493B40024E19C /* SearchBar.swift in Sources */,
+				3098CB6526F6080100F4DAFA /* SallyCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
