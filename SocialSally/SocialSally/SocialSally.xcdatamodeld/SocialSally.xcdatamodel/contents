@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Sally" representedClassName=".Sally" isAbstract="YES" syncable="YES">
+        <attribute name="authorHandle" optional="YES" attributeType="String"/>
+        <attribute name="authorImage" optional="YES" attributeType="Binary"/>
+        <attribute name="authorName" optional="YES" attributeType="String"/>
+        <attribute name="authorNote" optional="YES" attributeType="String"/>
+        <attribute name="hashtags" optional="YES" attributeType="String"/>
+        <attribute name="linkedinBadge" optional="YES" attributeType="Binary"/>
+        <attribute name="linkedinValue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="twitterBadge" optional="YES" attributeType="Binary"/>
+        <attribute name="twitterValue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Sally" positionX="-54" positionY="-9" width="128" height="179"/>
+    </elements>
+</model>
